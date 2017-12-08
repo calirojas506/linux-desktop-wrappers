@@ -1,4 +1,4 @@
-# (Unofficial) Linux Wrappers
+# (Unofficial) Wrappers for Linux
 No installation needed. Just download and execute the file.
 
 ### Disclaimer:
