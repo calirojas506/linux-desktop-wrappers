@@ -12,7 +12,7 @@ I'm just trying to bring these online services to Linux, but in desktop versions
 ## Messaging
 - [Telegram for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/3989258f/telegram-linux-x64/telegram)
 - [Facebook Messenger for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/3989258f/facebook-messenger-linux-x64/facebook-messenger)
-- [WhatsApp for Linux](https://cdn.rawgit.com/calirojas506/messaging-clients-wrappers/1104faf8/whats-app-linux-x64/whats-app)
+- [WhatsApp for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/9b07b7bc/whats-app-linux-x64/whats-app)
 
 ## Email
 - [Outlook for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/3989258f/outlook-linux-x64/outlook)
