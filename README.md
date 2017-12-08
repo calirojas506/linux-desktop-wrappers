@@ -18,4 +18,7 @@ I'm just trying to bring these online services to Linux, but in desktop versions
 - [Outlook for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/3989258f/outlook-linux-x64/outlook)
 - [Gmail for Linux](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/3989258f/gmail-linux-x64/gmail)
 
+## Office
+- [Google Docs](https://cdn.rawgit.com/calirojas506/linux-desktop-wrappers/f00cc40d/google-docs-linux-x64/google-docs)
+
 #### Icons by [Aha-Soft](https://www.iconfinder.com/aha-soft) and [CloudSponge](https://www.iconfinder.com/CloudSponge)
